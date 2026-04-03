@@ -60,7 +60,7 @@ export function LiveEventHighlight() {
                   &ldquo;A Transformative Experience&rdquo;
                 </div>
                 <p className="text-ivory/50 text-sm">
-                  — Attendee feedback from 360 Perspective Live
+                  - Attendee feedback from 360 Perspective Live
                 </p>
               </div>
             </div>

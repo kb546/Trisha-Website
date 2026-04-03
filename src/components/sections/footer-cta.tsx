@@ -21,7 +21,7 @@ export function FooterCta() {
           </h2>
           <p className="text-ivory/60 text-lg max-w-2xl mx-auto mb-10">
             Whether it&apos;s a corporate conference, an intimate panel, or a keynote
-            that moves hearts — let&apos;s create something extraordinary together.
+            that moves hearts, let&apos;s create something extraordinary together.
           </p>
           <CtaButton href="/book" variant="gold" size="xl">
             Book Trisha Now

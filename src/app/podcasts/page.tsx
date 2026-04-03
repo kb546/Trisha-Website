@@ -9,7 +9,7 @@ import { podcasts } from "@/lib/constants";
 export const metadata: Metadata = {
   title: "Podcasts",
   description:
-    "Listen to The 360 Perspective and Your Health Kenya — two audiovisual podcasts hosted by Trisha, featuring conversations that inspire, inform, and empower.",
+    "Listen to The 360 Perspective and Your Health Kenya, two audiovisual podcasts hosted by Trisha, featuring conversations that inspire, inform, and empower.",
 };
 
 export default function PodcastsPage() {

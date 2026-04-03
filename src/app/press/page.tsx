@@ -33,7 +33,7 @@ export default function PressPage() {
               Media <span className="text-gold">Kit</span>
             </h1>
             <p className="text-ivory/70 text-lg leading-relaxed">
-              Everything journalists and event organizers need — headshots, bios,
+              Everything journalists and event organizers need: headshots, bios,
               speaking topics, and press contact information.
             </p>
           </div>
@@ -54,7 +54,7 @@ export default function PressPage() {
                   Headshots
                 </h3>
                 <p className="text-muted-foreground text-sm leading-relaxed mb-6">
-                  High-resolution professional headshots in multiple styles — corporate,
+                  High-resolution professional headshots in multiple styles: corporate,
                   editorial, and on-stage. Available for press use.
                 </p>
                 <p className="text-xs text-muted-foreground italic">

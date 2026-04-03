@@ -17,7 +17,7 @@ export function MeetTrisha() {
               <div className="aspect-[3/4] rounded-2xl bg-navy/5 overflow-hidden relative">
                 <Image
                   src="/images/photos/portrait-yellow-top.jpg"
-                  alt="Trisha — portrait with warm smile"
+                  alt="Trisha - portrait with warm smile"
                   fill
                   className="object-cover object-top"
                   sizes="(max-width: 1024px) 100vw, 50vw"
@@ -48,7 +48,7 @@ export function MeetTrisha() {
                 <p>
                   A former TV Presenter on Citizen TV Kenya, she brings broadcast-level
                   confidence and warmth to every stage she commands. She currently hosts
-                  two audiovisual podcasts — The 360 Perspective and Your Health Kenya —
+                  two audiovisual podcasts, The 360 Perspective and Your Health Kenya,
                   leading conversations that inspire, inform, and empower.
                 </p>
               </div>

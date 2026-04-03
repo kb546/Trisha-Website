@@ -21,7 +21,7 @@ export function Hero() {
       >
         <Image
           src="/images/photos/hero-seated-pink.jpg"
-          alt="Trisha — Corporate Emcee, Host, and Speaker"
+          alt="Trisha - Corporate Emcee, Host, and Speaker"
           fill
           priority
           className="object-cover object-[center_20%]"
@@ -29,7 +29,7 @@ export function Hero() {
         />
       </motion.div>
 
-      {/* Gradient overlay — stronger for text readability */}
+      {/* Gradient overlay - stronger for text readability */}
       <div className="absolute inset-0 z-[1] bg-gradient-to-t from-navy via-navy/70 to-navy/40" />
       <div className="absolute inset-0 z-[1] bg-navy/25" />
 

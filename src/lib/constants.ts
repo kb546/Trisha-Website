@@ -2,7 +2,7 @@ import type { NavLink, Service, Testimonial, PodcastShow } from "@/types";
 
 export const siteConfig = {
   name: "Trisha",
-  title: "Trisha — Corporate Emcee, Host, Moderator & Podcaster",
+  title: "Trisha - Corporate Emcee, Host, Moderator & Podcaster",
   description:
     "Trisha is a leading Corporate EMCEE, Host, Moderator, Podcaster, and Motivational Speaker. Elevating events with elegance, warmth, and impact. Book Trisha for your next event.",
   url: "https://trishahost.com",
@@ -108,7 +108,7 @@ export const services: Service[] = [
     shortTitle: "Podcasting",
     tagline: "Hosting conversations that inspire, inform, and empower",
     description: [
-      "Trisha hosts two successful audiovisual podcasts — The 360 Perspective and Your Health Kenya — where she leads authentic, thought-provoking conversations with leaders, changemakers, and visionaries.",
+      "Trisha hosts two successful audiovisual podcasts, The 360 Perspective and Your Health Kenya, where she leads authentic, thought-provoking conversations with leaders, changemakers, and visionaries.",
       "Looking for a guest appearance, collaboration, or sponsorship opportunity? Trisha's podcast platforms offer brands and thought leaders a powerful way to connect with engaged audiences across East Africa and beyond.",
     ],
     heroImage: "/images/photos/podcast-wide-branded.jpg",
@@ -141,7 +141,7 @@ export const testimonials: Testimonial[] = [
   },
   {
     quote:
-      "Trisha's keynote was the highlight of our women's leadership event. Her authenticity and warmth moved the entire room. She doesn't just speak — she connects.",
+      "Trisha's keynote was the highlight of our women's leadership event. Her authenticity and warmth moved the entire room. She doesn't just speak, she connects.",
     name: "Grace Mwangi",
     title: "Program Director",
     organization: "Women in Business Network",
@@ -155,14 +155,14 @@ export const testimonials: Testimonial[] = [
   },
   {
     quote:
-      "Trisha's podcast interview style is remarkable — she creates such a comfortable space that guests open up in ways they never expected. The episode we did together was our most downloaded.",
+      "Trisha's podcast interview style is remarkable. She creates such a comfortable space that guests open up in ways they never expected. The episode we did together was our most downloaded.",
     name: "Amina Hassan",
     title: "CEO",
     organization: "Nairobi Health Initiative",
   },
   {
     quote:
-      "We needed an emcee who could handle a high-profile gala with both elegance and energy. Trisha delivered beyond our expectations — our guests are still talking about it.",
+      "We needed an emcee who could handle a high-profile gala with both elegance and energy. Trisha delivered beyond our expectations. Our guests are still talking about it.",
     name: "Peter Kiptoo",
     title: "Event Coordinator",
     organization: "Kenya Red Cross",
@@ -173,7 +173,7 @@ export const podcasts: PodcastShow[] = [
   {
     title: "The 360 Perspective",
     description:
-      "A thought-provoking audiovisual podcast where Trisha leads conversations with leaders, visionaries, and changemakers on topics that matter. From business and culture to purpose and personal growth — every episode offers a fresh perspective.",
+      "A thought-provoking audiovisual podcast where Trisha leads conversations with leaders, visionaries, and changemakers on topics that matter. From business and culture to purpose and personal growth, every episode offers a fresh perspective.",
     image: "/images/photos/podcast-wide-branded.jpg",
     spotifyUrl: "https://open.spotify.com/show/the360perspective",
     appleUrl: "https://podcasts.apple.com/podcast/the-360-perspective",

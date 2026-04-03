@@ -9,7 +9,7 @@ import { stats } from "@/lib/constants";
 export const metadata: Metadata = {
   title: "About Trisha",
   description:
-    "Meet Trisha — former Citizen TV Kenya presenter, podcaster, and one of East Africa's most sought-after event hosts and motivational speakers.",
+    "Meet Trisha - former Citizen TV Kenya presenter, podcaster, and one of East Africa's most sought-after event hosts and motivational speakers.",
 };
 
 const milestones = [
@@ -51,7 +51,7 @@ export default function AboutPage() {
                 <div className="aspect-[3/4] rounded-2xl bg-navy/5 overflow-hidden relative">
                   <Image
                     src="/images/photos/headshot-dark-bg.jpg"
-                    alt="Trisha — professional studio portrait"
+                    alt="Trisha - professional studio portrait"
                     fill
                     className="object-cover"
                     sizes="(max-width: 1024px) 100vw, 40vw"
@@ -72,7 +72,7 @@ export default function AboutPage() {
                   platforms.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
-                  She is the host of two audiovisual podcasts — The 360 Perspective and Your Health Kenya —
+                  She is the host of two audiovisual podcasts, The 360 Perspective and Your Health Kenya,
                   where she leads authentic, thought-provoking conversations that inspire, inform, and empower
                   her growing audience. Her podcasting work reflects a deep commitment to purposeful dialogue
                   and a natural ability to connect with people in a way that feels both real and engaging.
@@ -87,7 +87,7 @@ export default function AboutPage() {
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
                   One of her most notable achievements is the creation and hosting of the 360 Perspective
-                  Live event — a powerful gathering that brought together more than 700 attendees. This
+                  Live event, a powerful gathering that brought together more than 700 attendees. This
                   milestone reflects not just her influence as a public figure, but her leadership and vision
                   for creating transformative spaces where people come together around meaningful ideas.
                 </p>

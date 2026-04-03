@@ -84,7 +84,7 @@ export default function BookPage() {
                     <div>
                       <p className="font-semibold text-navy text-sm mb-1">Based in</p>
                       <p className="text-muted-foreground text-sm">
-                        Nairobi, Kenya — Available Worldwide
+                        Nairobi, Kenya - Available Worldwide
                       </p>
                     </div>
                   </div>
